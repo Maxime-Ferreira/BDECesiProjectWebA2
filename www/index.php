@@ -15,7 +15,7 @@
 
     <body>
         <header>
-            <?php include "./assets/php/header.php";?>
+            <?php include "./assets/php/header.php";?> <br>
         </header>
         <main>
             <div class = "evenement"> Bienvenue, découvrez nos activités </div>
