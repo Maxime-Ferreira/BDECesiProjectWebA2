@@ -18,7 +18,7 @@
             <?php include "./assets/php/header.php";?>
         </header>
         <main>
-            <div class = "evenement"> Les évènements </div>
+            <div class = "evenement"> Bienvenue, découvrez nos activités </div>
                 <div class="bd-example">
                     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                         <ol class="carousel-indicators">
@@ -28,21 +28,21 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="./assets/img/bde.png" class="d-block w-100" alt="Première activité">
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5 class = "color">Bienvenue sur le site du BDE</h5>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <img src="./assets/img/bdepull.jpg" class="d-block w-100" alt="Seconde activité">
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5 class = "color">Nouveau pull du BDE</h5>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <img src="./assets/img/ski.jpg" class="d-block w-100" alt="Troisième activité">
+                                <img src="./assets/img/ski.jpg" class="d-block w-100" alt="Première activité">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5 class = "color">Week-end au SKI</h5>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <img src="./assets/img/concert.jpg" class="d-block w-100" alt="Seconde activité">
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5 class = "color">Concert avec le BDE, inscrivez-vous</h5>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <img src="./assets/img/croatie.jpg" class="d-block w-100" alt="Troisième activité">
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5 class = "color">Une semaine en Croatie avec le BDE</h5>
                                 </div>
                             </div>
                         </div>

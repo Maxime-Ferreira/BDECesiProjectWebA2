@@ -13,7 +13,7 @@
         <header>
             <!--Mise en place d'une nav bar qui nous servira de support sur ce que l'on voudra ajouter dessus-->
             <nav class="navbar navbar-expand-md navbar-light fixed-sticky" style="background-color: #6684BD;">
-                <img src="/www/assets/img/logoo.png" width="75" height="75" class="d-inline-block align-top" alt="logoBde">
+                <img src="/BDECesiProjectWebA2/www/assets/img/logoo.png" width="75" height="75" class="d-inline-block align-top" alt="logoBde">
                 <a class="navbar-brand titre" href="/www/index.php">BDECESI</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -22,16 +22,16 @@
                 <div class="collapse navbar-collapse link" id="navbarCollapse">
                     <ul class="navbar-nav mr-auto">
                         <li class="list-inline-item">
-                            <a class="nav-link" href="/www//index.php">Accueil</a>
+                            <a class="nav-link" href="/BDECesiProjectWebA2/www/index.php">Accueil</a>
                         </li>
                         <li class="list-inline-item">
-                            <a class="nav-link" href="/www/assets/php/boutique.php">Boutique</a>
+                            <a class="nav-link" href="/BDECesiProjectWebA2/www/assets/php/boutique.php">Boutique</a>
                         </li>
                         <li class="list-inline-item">
-                            <a class="nav-link" href="/www/assets/php/displayevent.php">Evénement</a>
+                            <a class="nav-link" href="/BDECesiProjectWebA2/www/assets/php/displayevent.php">Evénement</a>
                         </li>
                         <li class="list-inline-item">
-                            <a class="nav-link" href="/www/assets/php/panier.php">Panier</a>
+                            <a class="nav-link" href="/BDECesiProjectWebA2/www/assets/php/panier.php">Panier</a>
                         </li>
                     </ul>
                     <!--Input ou l'on pourra a partir de la nav bar rechercher ce que l'on voudra sur le site-->
@@ -40,7 +40,7 @@
                         <button class="btn btn-dark my-2 my-sm-0" type="button">Rechercher</button>
                         <div class="lienHeader">
                             <h5>
-                                <a href="/www/assets/php/profil.php">Profil</a>
+                                <a href="/BDECesiProjectWebA2/www/assets/php/profil.php">Profil</a>
                             </h5>
                         </div>
                     </form>

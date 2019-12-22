@@ -62,7 +62,7 @@ if (isset($_COOKIE['accept_cookie'])) {
     </ul>
   <!--bouton renvoyant vers la page des mentions legales-->
     <div class="btn-group mr-2" role="group">
-      <a class="btn btn-outline-info mention" href="/www/assets/php/mentions_legales.php">Mentions légales</a>
+      <a class="btn btn-outline-info mention" href="/BDECesiProjectWebA2/www/assets/php/mentions_legales.php">Mentions légales</a>
     </div>
   </nav>
 </footer>
