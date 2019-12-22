@@ -1,0 +1,15 @@
+.nom {
+    text-align: center;
+}
+
+.barre {
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.bot {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
